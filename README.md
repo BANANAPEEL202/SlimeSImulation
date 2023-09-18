@@ -1,4 +1,4 @@
-# SlimeSImulation
+# SlimeSimulation
 Java implementation of slime behavior research conducted by Dr. Jeff Jones and published by MIT. Based on "Coding Adventure: Ant and Slime Simulations" by Sebastian League
 
 https://github.com/BANANAPEEL202/SlimeSImulation/assets/67805049/975c6e3d-0343-4ca2-83f3-3b9d2819f132
